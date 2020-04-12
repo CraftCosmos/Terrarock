@@ -1,2 +1,2 @@
 # Terrarock
-Terraform for Minecraft Bedrock server in Azure. (It was either that or Bedform.)
+Terraform for Minecraft Bedrock server. (It was either that or Bedform.)
